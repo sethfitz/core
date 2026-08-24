@@ -52,7 +52,7 @@ on fans and purifiers and nowhere else.
 
 ## Checklist
 
-- [ ] I understand the code I am submitting and can explain how it works.
+- [x] I understand the code I am submitting and can explain how it works.
 - [x] The code change is tested and works locally.
 - [x] Local tests pass. **Your PR cannot be merged unless tests pass**
 - [x] There is no commented out code in this PR.
@@ -64,7 +64,7 @@ on fans and purifiers and nowhere else.
 
 If user exposed functionality or configuration variables are added/changed:
 
-- [ ] Documentation added/updated for [www.home-assistant.io][docs-repository]
+- [x] Documentation added/updated for [www.home-assistant.io][docs-repository]
 
 If the code communicates with devices, web services, or third-party tools:
 
