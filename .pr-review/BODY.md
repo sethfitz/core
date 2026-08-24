@@ -77,3 +77,9 @@ If the code communicates with devices, web services, or third-party tools:
 To help with the load of incoming pull requests:
 
 - [ ] I have reviewed two other [open pull requests][prs] in this repository.
+
+[prs]: https://github.com/home-assistant/core/pulls?q=is%3Aopen+is%3Apr+-author%3A%40me+-draft%3Atrue+-label%3Awaiting-for-upstream+sort%3Acreated-desc+review%3Anone+-status%3Afailure
+[dev-checklist]: https://developers.home-assistant.io/docs/development_checklist/
+[manifest-docs]: https://developers.home-assistant.io/docs/creating_integration_manifest/
+[docs-repository]: https://github.com/home-assistant/home-assistant.io
+[perfect-pr]: https://developers.home-assistant.io/docs/review-process/#creating-the-perfect-pr
